@@ -1,6 +1,4 @@
 __pycache__/
 profiles/
 account.txt
-config.json
-proxy.txt
 test_import.py

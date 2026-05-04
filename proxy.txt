@@ -1,0 +1,2 @@
+# Dan danh sach proxy cua ban vao day (Moi dong 1 proxy)
+# Dinh dang: IP:Port hoac IP:Port:User:Pass

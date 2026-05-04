@@ -1,0 +1,10 @@
+{
+    "fb_lang": "Tiếng Việt (Không dấu)",
+    "use_phone_seed": true,
+    "phone_prefix": "0987",
+    "api_dongvan": "",
+    "api_gmail": "",
+    "api_shopmailmmo": "",
+    "api_autosms": "",
+    "reg_mode": "reg_mail_ao"
+}
